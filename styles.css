@@ -2,12 +2,12 @@ body {
     background-color: rgb(209, 205, 205);
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
-#box {
+#cuadrodelpost {
     width: 500px;
     background-color: white;
     position:absolute;
     margin-top: 5%;
-    left: 30%;
+    left: 35%;
     right: 25%;
 }
 .HeaderdelPost {
@@ -23,5 +23,8 @@ img {
 }
 .footer{
     margin: 5%;
+}
+h1 {
+    text-align: center;
 }
 
